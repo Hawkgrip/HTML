@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home Page | Course Way</title>
+        <style>
+            .button{
+                border: none;
+                color: white;
+                padding: 18px 30px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                transition-duration: 0.5s;
+                cursor: pointer;
+            }
+
+            .button1{
+                width: 100%;
+                background-color: white;
+                color: black;
+                border: 2px solid #760091;
+            }
+
+            .button1:hover{
+                background-color: #760091;
+                color: white;
+            }
+
+            .button2{
+                width: 100%;
+                background-color: white;
+                color: black;
+                border: 2px solid #760091;
+            }
+
+            .button2:hover{
+                background-color: #760091;
+                color: white;
+            }
+
+            .button3{
+                width: 100%;
+                background-color: white;
+                color: black;
+                border: 2px solid #760091;
+            }
+
+            .button3:hover{
+                background-color: #760091;
+                color: white;
+            }
+
+            .button4{
+                width: 100%;
+                background-color: white;
+                color: black;
+                border: 2px solid #760091;
+            }
+
+            .button4:hover{
+                background-color: #760091;
+                color: white;
+            }
+
+            .button5{
+                width: 100%;
+                background-color: white;
+                color: black;
+                border: 2px solid #760091;
+            }
+
+            .button5:hover{
+                background-color: #760091;
+                color: white;
+            }
+
+            .button6{
+                width: 100%;
+                background-color: white;
+                color: black;
+                border: 2px solid #760091;
+            }
+
+            .button6:hover{
+                background-color: #760091;
+                color:  white;
+            }
+
+            .button7{
+                width: 100%;
+                background-color: white;
+                color: black;
+                border: 2px solid #760091;
+            }
+
+            .button7:hover{
+                background-color: #760091;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <fieldset>
+            <table>
+                <tr>
+                    <fieldset style="text-align: center;"><h1><b>Course Way</b></h1></fieldset> 
+                </tr>
+                <tr>
+                    <table>
+                        <tr>
+                           <td>
+                            <fieldset>
+                                <table>
+
+                                    <br>
+                                    <tr>
+                                       <button class="button button1">Dashboard</button>
+                                    </tr>
+
+                                    <br>
+                                    <tr>
+                                        <button  class="button button2">Browse</button> 
+                                    </tr>
+                                    
+                                    <br>
+                                    <tr>
+                                        <button  class="button button3">Enroll</button> 
+                                    </tr>
+
+                                    <br>
+                                    <tr>
+                                        <button  class="button button4">Progress</button> 
+                                    </tr>
+
+                                    <br>
+                                    <tr>
+                                        <button  class="button button5">Course Material</button> 
+                                    </tr>
+                                    
+                                    <br>
+                                    <tr>
+                                        <button class="button button6">Interact</button> 
+                                    </tr>
+
+                                    <br>
+                                    <tr>
+                                        <button class="button button7">log out</button> 
+                                    </tr>
+                                    <br>
+                                </table>
+                            </fieldset>
+                           </td>
+
+                           <td>
+                            <fieldset>
+                                <legend> Contact Information</legend>
+                            </fieldset>
+                           </td>
+
+                        </tr>
+                    </table>
+                </tr>
+                <tr>
+                    <fieldset>
+                        <br>
+                        <br>
+                        <br>
+                    </fieldset>
+                </tr>
+            </table>
+           </fieldset>
+    </body>
+</html>
